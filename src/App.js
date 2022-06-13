@@ -1,4 +1,4 @@
-import './main.css';
+import './App.css';
 import ShopItemFunc from './components/ShopItemFunc';
 
 function App() {
